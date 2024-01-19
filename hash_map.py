@@ -1,10 +1,3 @@
-# Name: Omotola Anibaba
-# OSU Email: anibabao@oregonstate.edu
-# Course: CS261 - Data Structures
-# Assignment: 7
-# Due Date: Dec 03 2021
-# Description: HashMap Implementation
-
 
 # Import pre-written DynamicArray and LinkedList classes
 from a7_include import *
